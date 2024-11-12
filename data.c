@@ -5,11 +5,11 @@ new= 1
 boundary=1(xyz-Neumann boundary);2(xy-periodic,z_Neuman);3(Thomas Method)
 boundary= 1
 Number of points along x-axis:
-M= 32
+M= 16
 Number of points along y-axis:
-N= 32
+N= 16
 Number of points along z-axis:
-K= 32
+K= 16
 Number of kernel summation(set 0 if no periodic boundary):
 nsum= 0
 Number of time steps:
