@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zhengzekai/vscode/std3/std3-flower/main'
+relocations:     []
+...

@@ -1,0 +1,38 @@
+=====Simulations of Micromagnetics=====
+Number of points along x-axis:
+M=128
+Number of points along y-axis:
+N=64
+Number of points along z-axis:
+K=4
+Number of time steps:
+nsteps=5.000000e+03
+Number of ouput points:
+npoints=200
+Time step size:
+dt=2.000000e-10
+x-length of sample:
+X=2.000000e-06
+y-length of sample:
+Y=1.000000e-06
+Thickness of sample:
+Z=2.000000e-08
+Sature magnetization:
+Ms=8.000000e+05
+Exchange energy term:
+An=1.300000e-11
+Anisotropy term:
+Ku=5.000000e+02
+Gyromagnetic ratio:
+gam=2.211000e+11
+Damping factor:
+alpha=1.000000e-01
+Relative tolerance
+RelTol=1.000000e-09
+Time=5.000000e-09 ; Total Energy=9.341919e-15 ; Exchange Energy=5.253240e-15; StrayField Energy=4.078682e-15
+Time=1.000000e-08 ; Total Energy=8.803116e-15 ; Exchange Energy=5.212330e-15; StrayField Energy=3.580788e-15
+Time=1.500000e-08 ; Total Energy=9.508963e-15 ; Exchange Energy=5.210417e-15; StrayField Energy=4.288549e-15
+Time=2.000000e-08 ; Total Energy=9.587644e-15 ; Exchange Energy=5.261118e-15; StrayField Energy=4.316529e-15
+Time=2.500000e-08 ; Total Energy=9.523259e-15 ; Exchange Energy=5.295652e-15; StrayField Energy=4.217610e-15
+Time=3.000000e-08 ; Total Energy=9.011624e-15 ; Exchange Energy=5.173264e-15; StrayField Energy=3.828362e-15
+Time=3.500000e-08 ; Total Energy=9.677180e-15 ; Exchange Energy=5.226257e-15; StrayField Energy=4.440928e-15

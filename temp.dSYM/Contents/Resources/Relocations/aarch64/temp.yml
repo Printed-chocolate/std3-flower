@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zhengzekai/vscode/dia/temp'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _fourn, symObjAddr: 0x0, symBinAddr: 0x1000037B8, symSize: 0x5E4 }
+  - { offsetInCU: 0x48, offset: 0x48, size: 0x8, addend: 0x0, symName: _fourn, symObjAddr: 0x0, symBinAddr: 0x1000037B8, symSize: 0x5E4 }
+  - { offsetInCU: 0x214, offset: 0x214, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5E4, symBinAddr: 0x100003D9C, symSize: 0x114 }
+...
