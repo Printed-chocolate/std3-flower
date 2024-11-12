@@ -8,8 +8,8 @@ Number of points along x-axis:
 M= 16
 Number of points along y-axis:
 N= 16
-Number of points along z-axis:
-K= 16
+Numbe18r of points along z-axis:
+K = 16
 Number of kernel summation(set 0 if no periodic boundary):
 nsum= 0
 Number of time steps:
